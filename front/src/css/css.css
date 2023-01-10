@@ -1,0 +1,23 @@
+:root{
+    --cinza-a:rgb(77, 77, 77);
+    --vermelho-a:rgb(85, 0, 0);
+    --vermelho-b:rgb(128, 0, 0);
+    --vermelho-c:rgb(43, 0, 0);
+    --azul-a:rgb(2, 8, 94);
+    --azul-b:rgb(0, 25, 136);
+    --azul-c:rgb(0, 10, 53);
+    
+    --amarelo-a:#ffbb28;
+    --verde-a: rgb(1, 101, 1);
+    --verde-b:green;
+    --verde-c:rgb(1, 55, 10);
+
+}
+button{
+    background: none;
+    color:inherit;
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    font: inherit;
+}
